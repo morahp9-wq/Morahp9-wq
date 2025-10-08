@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... I love ice cream 
-- 🔗 An interesting link: ... https://github.com/emijrp/all-human-knowledge 
+- 🔗 An interesting link: ... <a href="https://github.com/emijrp/all-human-knowledge">link</a>
